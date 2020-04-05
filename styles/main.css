@@ -158,5 +158,6 @@ main {
 
   .card {
     max-width: 30rem;
+    margin-bottom: 0;
   }
 }
